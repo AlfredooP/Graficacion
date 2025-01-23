@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Imgs">
+        <file>detener.png</file>
+        <file>flechaDown.png</file>
+        <file>flechaIzq.png</file>
+        <file>paisaje.jpeg</file>
+        <file>play.png</file>
+        <file>salir.png</file>
+        <file>SnoppyD.png</file>
+        <file>SnoppyI.png</file>
+    </qresource>
+</RCC>

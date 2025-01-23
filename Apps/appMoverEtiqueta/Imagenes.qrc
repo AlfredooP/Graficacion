@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>flechaDown.png</file>
+        <file>flechaIzq.png</file>
+        <file>SnoppyD.png</file>
+        <file>SnoppyI.png</file>
+        <file>detener.png</file>
+        <file>salir.png</file>
+    </qresource>
+</RCC>

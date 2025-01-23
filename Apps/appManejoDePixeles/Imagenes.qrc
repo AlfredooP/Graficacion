@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>pez.png</file>
+        <file>pezInv.png</file>
+        <file>pez.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
